@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+}
+h1{
+    font-size: 40px;
+    font-family: 'ADELIA', sans-serif;                                              
+}
+#apps{
+    background-color: darkcyan;
+}
+#games{
+    background-color: #33E1E4;
+}
+#chatbot{
+    background-color: #15E33D;
+}
+.linea{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
